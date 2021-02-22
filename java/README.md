@@ -2,4 +2,4 @@
 
 ## Este es un subtitulo
 
-_Esto es cursiva_ y esto es *negrita*.
+_Esto SI es cursiva_ y esto es *negrita*.
